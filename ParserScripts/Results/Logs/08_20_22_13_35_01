@@ -1,0 +1,23 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в <built-in method now of type object at 0x00007FFD41140CD0>
+INFO:functions.logger:Функция run запущена 2022-08-20 13:35:10.193340
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-20 13:35:10.193340
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-20 13:35:14.993073
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:35:14.993073
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:35:16.241977
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:35:17.699262
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:35:18.813615
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:35:19.911655
+INFO:functions.logger:Функция __only_name_choose запущена 2022-08-20 13:35:23.477178
+INFO:functions.logger:Функция __make_clicks_to_get_category запущена 2022-08-20 13:35:24.477811
+INFO:functions.logger:Функция category__xpath_of_elements запущена 2022-08-20 13:35:24.477811
+INFO:functions.logger:Функция run запущена 2022-08-20 13:35:38.220851
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-20 13:35:38.220851
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-20 13:35:42.892162
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:35:42.892162
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:35:44.101857
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:35:45.606680
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:35:46.732649
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:35:47.830299
+INFO:functions.logger:Функция __only_name_choose запущена 2022-08-20 13:36:03.584789
+INFO:functions.logger:Функция __make_clicks_to_get_category запущена 2022-08-20 13:36:04.585245
+INFO:functions.logger:Функция category__xpath_of_elements запущена 2022-08-20 13:36:04.585245

@@ -1,0 +1,233 @@
+1661144378386	geckodriver	INFO	Listening on 127.0.0.1:59200
+1661144451237	geckodriver	INFO	Listening on 127.0.0.1:59216
+1661144596955	geckodriver	INFO	Listening on 127.0.0.1:58004
+1661144668920	geckodriver	INFO	Listening on 127.0.0.1:58026
+1661144828163	geckodriver	INFO	Listening on 127.0.0.1:58040
+1661144831172	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\Firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofile6Bjdqc"
+*** You are running in headless mode.
+1661144831583	Marionette	INFO	Marionette enabled
+1661144831588	Marionette	INFO	Listening on port 58051
+WebDriver BiDi listening on ws://localhost:58041
+Read port: 58051
+1661144831816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofile6Bjdqc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58041/devtools/browser/d935255f-3e21-4808-baf6-d6850f63747e
+1661144880302	geckodriver	INFO	Listening on 127.0.0.1:58087
+1661144883317	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\Firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofilefNYWoU"
+*** You are running in headless mode.
+1661144883740	Marionette	INFO	Marionette enabled
+1661144883746	Marionette	INFO	Listening on port 58098
+WebDriver BiDi listening on ws://localhost:58088
+Read port: 58098
+1661144883882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofilefNYWoU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58088/devtools/browser/974bae4a-5c09-4498-8090-0f208b07e73e
+1661144904463	geckodriver	INFO	Listening on 127.0.0.1:58125
+1661144907473	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\Firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58126" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofileSQ6nFY"
+*** You are running in headless mode.
+1661144907933	Marionette	INFO	Marionette enabled
+1661144907939	Marionette	INFO	Listening on port 58136
+WebDriver BiDi listening on ws://localhost:58126
+Read port: 58136
+1661144908077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofileSQ6nFY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58126/devtools/browser/ceaedc6d-dc98-467d-89e8-cc5f2a849037
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.f620419292c6b4bd4b98.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661145277045	geckodriver	INFO	Listening on 127.0.0.1:58475
+1661145280049	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\Firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/29.0" "--remote-debugging-port" "58476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofilez60Gez"
+*** You are running in headless mode.
+1661145280572	Marionette	INFO	Marionette enabled
+1661145280579	Marionette	INFO	Listening on port 58500
+WebDriver BiDi listening on ws://localhost:58476
+Read port: 58500
+1661145280754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofilez60Gez\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58476/devtools/browser/2ca0568f-d6cf-4032-b175-c9e2ea5d51c4
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.f620419292c6b4bd4b98.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1661145285155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1661145319553	geckodriver	INFO	Listening on 127.0.0.1:58749
+1661145322665	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\Firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1" "--remote-debugging-port" "58750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofile9bRNQE"
+1661145323187	Marionette	INFO	Marionette enabled
+1661145323194	Marionette	INFO	Listening on port 58759
+WebDriver BiDi listening on ws://localhost:58750
+Read port: 58759
+1661145323358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofile9bRNQE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58750/devtools/browser/52570282-c339-4222-a890-fb8b9de7e150
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.f620419292c6b4bd4b98.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661145402115	Marionette	INFO	Stopped listening on port 58759
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661145462236	geckodriver	INFO	Listening on 127.0.0.1:59046
+1661145465409	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\Firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Windows x86; rv:19.0) Gecko/20100101 Firefox/19.0" "--remote-debugging-port" "59047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofile0rfY39"
+*** You are running in headless mode.
+1661145466033	Marionette	INFO	Marionette enabled
+1661145466040	Marionette	INFO	Listening on port 59062
+WebDriver BiDi listening on ws://localhost:59047
+Read port: 59062
+1661145466219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofile0rfY39\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59047/devtools/browser/4765b8e5-29be-45e5-88eb-8aa4ab0754e2
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.f620419292c6b4bd4b98.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661145473375	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1661164461691	geckodriver	INFO	Listening on 127.0.0.1:59896
+1661164464703	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\Firefox.exe" "--marionette" "-headless" "user-agent=Mozilla/5.0 (Windows NT 6.2; rv:21.0) Gecko/20130326 Firefox/21.0" "--remote-debugging-port" "59897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofile1jeBCr"
+*** You are running in headless mode.
+1661164465525	Marionette	INFO	Marionette enabled
+1661164465530	Marionette	INFO	Listening on port 59906
+WebDriver BiDi listening on ws://localhost:59897
+Read port: 59906
+1661164465680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofile1jeBCr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59897/devtools/browser/82ac6799-c3d9-4aed-b8d8-c46788ad33a8
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.f620419292c6b4bd4b98.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661164472310	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1661164491249	geckodriver	INFO	Listening on 127.0.0.1:60115
+1661164494525	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\Firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20120101 Firefox/29.0" "--remote-debugging-port" "60116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofile4hUwsd"
+1661164495056	Marionette	INFO	Marionette enabled
+1661164495063	Marionette	INFO	Listening on port 60125
+WebDriver BiDi listening on ws://localhost:60116
+Read port: 60125
+1661164495242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofile4hUwsd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60116/devtools/browser/68eb7b28-8e63-479b-8e1f-26871f75af73
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.f620419292c6b4bd4b98.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661178881918	Marionette	INFO	Stopped listening on port 60125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/29.0" "--remote-debugging-port" "60381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofileQDI6vh"
+1661164799991	Marionette	INFO	Marionette enabled
+1661164799998	Marionette	INFO	Listening on port 60390
+WebDriver BiDi listening on ws://localhost:60381
+Read port: 60390
+1661164800152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\artem\\AppData\\Local\\Temp\\rust_mozprofileQDI6vh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60381/devtools/browser/4feb7a31-74fd-4638-8f9f-f1444ad5d90f
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.f620419292c6b4bd4b98.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661164805483	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 569))
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 956))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:956:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:206:10
+onDetached@resource://devtools/client/inspector/inspector.js:1678:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 30))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.avito.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661178883251	Marionette	INFO	Stopped listening on port 60390

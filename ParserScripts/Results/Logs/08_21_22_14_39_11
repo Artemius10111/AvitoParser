@@ -1,0 +1,40 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-21 14:39:12.359122
+INFO:functions.logger:Функция run запущена 2022-08-21 14:39:21.291652
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-21 14:39:21.291652
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 14:39:25.528511
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 14:39:25.528511
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 14:39:27.816177
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 14:39:30.090464
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 14:39:32.228213
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 14:39:34.347104
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 14:39:55.705003
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 14:39:55.705003
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 14:39:58.088993
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки Message: chrome not reachable
+  (Session info: chrome=104.0.5112.101)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x011878B3+2193587]
+	Ordinal0 [0x01120681+1771137]
+	Ordinal0 [0x01034070+802928]
+	Ordinal0 [0x01029AB2+760498]
+	Ordinal0 [0x0101CEAF+708271]
+	Ordinal0 [0x01021142+725314]
+	Ordinal0 [0x010255C9+742857]
+	Ordinal0 [0x01035500+808192]
+	Ordinal0 [0x0108D2C2+1168066]
+	Ordinal0 [0x0107D5C6+1103302]
+	Ordinal0 [0x010577E0+948192]
+	Ordinal0 [0x010586E6+952038]
+	GetHandleVerifier [0x01430CB2+2738370]
+	GetHandleVerifier [0x014221B8+2678216]
+	GetHandleVerifier [0x012117AA+512954]
+	GetHandleVerifier [0x01210856+509030]
+	Ordinal0 [0x0112743B+1799227]
+	Ordinal0 [0x0112BB68+1817448]
+	Ordinal0 [0x0112BC55+1817685]
+	Ordinal0 [0x01135230+1856048]
+	BaseThreadInitThunk [0x75E66739+25]
+	RtlGetFullPathName_UEx [0x77C490AF+1215]
+	RtlGetFullPathName_UEx [0x77C4907D+1165]
+ 2022-08-21 14:40:08.412429

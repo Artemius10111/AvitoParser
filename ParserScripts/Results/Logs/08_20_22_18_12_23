@@ -1,0 +1,12 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:12:23.712592
+INFO:functions.logger:Функция run запущена 2022-08-20 18:12:32.193860
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-20 18:12:32.193860
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-20 18:12:36.006014
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 18:12:36.006014
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 18:12:36.586015
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 18:12:37.407242
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 18:12:37.625241
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 18:12:37.991295
+INFO:functions.logger:Функция __only_name_choose запущена 2022-08-20 18:12:56.787171
+INFO:functions.logger:Функция __make_clicks_to_get_category запущена 2022-08-20 18:12:56.787171
+INFO:functions.logger:Функция category__xpath_of_elements запущена 2022-08-20 18:12:56.787171

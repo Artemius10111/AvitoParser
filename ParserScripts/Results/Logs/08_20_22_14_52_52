@@ -1,0 +1,13 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в <built-in method now of type object at 0x00007FFD1C740CD0>
+INFO:functions.logger:Функция run запущена 2022-08-20 14:53:02.165364
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-20 14:53:02.165364
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-20 14:53:09.943969
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 14:53:09.943969
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 14:53:14.142179
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 14:53:18.792724
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 14:53:22.954413
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 14:53:27.064132
+INFO:functions.logger:Функция __only_name_choose запущена 2022-08-20 14:53:54.031615
+INFO:functions.logger:Функция __make_clicks_to_get_category запущена 2022-08-20 14:53:58.031935
+INFO:functions.logger:Функция category__xpath_of_elements запущена 2022-08-20 14:53:58.031935
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки 'type' object is not iterable 2022-08-20 14:54:05.222339

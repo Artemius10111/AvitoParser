@@ -1,0 +1,93 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-21 16:34:28.690122
+INFO:functions.logger:Функция run запущена 2022-08-21 16:34:32.199088
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-21 16:34:32.199088
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:35:33.459370
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:35:33.459370
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:35:38.124227
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:35:42.440657
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:35:46.615830
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:35:50.747520
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:36:01.960112
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:36:01.960112
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:36:06.181215
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:36:10.493086
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:36:14.712549
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:36:18.833133
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:36:45.343502
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:36:45.343502
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:36:49.582075
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:36:53.907706
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:36:58.121880
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:37:02.245012
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:37:11.549037
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:37:11.549037
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:37:15.807306
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:37:20.198899
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:37:24.415271
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:37:28.540688
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:37:55.615207
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:37:55.615207
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:37:59.973925
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:04.318278
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:08.529184
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:12.658254
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:38:20.862002
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:20.862002
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:25.118539
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:29.466592
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:33.684476
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:37.805691
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:38:46.866612
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:46.867142
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:51.304024
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:55.684110
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:38:59.893555
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:04.022987
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:39:10.931527
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:10.931527
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:15.485730
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:19.799277
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:24.012023
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:28.143636
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:39:35.181987
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:35.181987
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:39.667673
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:44.004151
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:48.193213
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:52.306889
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:39:59.501147
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:39:59.502148
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:40:04.127099
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:40:08.443464
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:40:12.649735
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:40:16.757982
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 16:40:33.990159
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:40:33.990159
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 16:40:38.053172
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/div[2]/div/div[2]/div/div[6]/div/div/span/div/div[1]/div[2]/div/input"}
+  (Session info: chrome=104.0.5112.101)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x011878B3+2193587]
+	Ordinal0 [0x01120681+1771137]
+	Ordinal0 [0x010341A8+803240]
+	Ordinal0 [0x010624A0+992416]
+	Ordinal0 [0x0106273B+993083]
+	Ordinal0 [0x0108F7C2+1177538]
+	Ordinal0 [0x0107D7F4+1103860]
+	Ordinal0 [0x0108DAE2+1170146]
+	Ordinal0 [0x0107D5C6+1103302]
+	Ordinal0 [0x010577E0+948192]
+	Ordinal0 [0x010586E6+952038]
+	GetHandleVerifier [0x01430CB2+2738370]
+	GetHandleVerifier [0x014221B8+2678216]
+	GetHandleVerifier [0x012117AA+512954]
+	GetHandleVerifier [0x01210856+509030]
+	Ordinal0 [0x0112743B+1799227]
+	Ordinal0 [0x0112BB68+1817448]
+	Ordinal0 [0x0112BC55+1817685]
+	Ordinal0 [0x01135230+1856048]
+	BaseThreadInitThunk [0x75E66739+25]
+	RtlGetFullPathName_UEx [0x77C490AF+1215]
+	RtlGetFullPathName_UEx [0x77C4907D+1165]
+ 2022-08-21 16:40:38.065170

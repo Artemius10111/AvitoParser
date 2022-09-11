@@ -1,0 +1,48 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-21 13:54:36.748813
+INFO:functions.logger:Функция run запущена 2022-08-21 13:54:40.538312
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-21 13:54:40.539320
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 13:54:44.890450
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:54:44.891452
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:54:47.572878
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:54:49.894675
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:54:52.023989
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:54:54.141853
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 13:55:04.406821
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:55:04.406821
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:55:06.722643
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:55:09.030460
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:55:11.182836
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:55:13.303350
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 13:55:57.479018
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:55:57.479018
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:55:59.707609
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:56:02.041505
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:56:04.286407
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки Message: chrome not reachable
+  (Session info: chrome=104.0.5112.101)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x011878B3+2193587]
+	Ordinal0 [0x01120681+1771137]
+	Ordinal0 [0x01034070+802928]
+	Ordinal0 [0x01029AB2+760498]
+	Ordinal0 [0x0101CEAF+708271]
+	Ordinal0 [0x01021142+725314]
+	Ordinal0 [0x010255C9+742857]
+	Ordinal0 [0x01035500+808192]
+	Ordinal0 [0x0108D2C2+1168066]
+	Ordinal0 [0x0107D5C6+1103302]
+	Ordinal0 [0x010577E0+948192]
+	Ordinal0 [0x010586E6+952038]
+	GetHandleVerifier [0x01430CB2+2738370]
+	GetHandleVerifier [0x014221B8+2678216]
+	GetHandleVerifier [0x012117AA+512954]
+	GetHandleVerifier [0x01210856+509030]
+	Ordinal0 [0x0112743B+1799227]
+	Ordinal0 [0x0112BB68+1817448]
+	Ordinal0 [0x0112BC55+1817685]
+	Ordinal0 [0x01135230+1856048]
+	BaseThreadInitThunk [0x75E66739+25]
+	RtlGetFullPathName_UEx [0x77C490AF+1215]
+	RtlGetFullPathName_UEx [0x77C4907D+1165]
+ 2022-08-21 13:56:15.030830

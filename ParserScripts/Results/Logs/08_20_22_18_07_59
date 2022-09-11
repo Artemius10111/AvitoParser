@@ -1,0 +1,64 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:07:59.984500
+INFO:functions.logger:Функция run запущена 2022-08-20 18:08:18.977671
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-20 18:08:18.978670
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-20 18:08:22.808687
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 18:08:22.809689
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 18:08:23.429980
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 18:08:24.125927
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 18:08:24.474547
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 18:08:24.802548
+INFO:functions.logger:Функция __only_name_choose запущена 2022-08-20 18:08:26.914154
+INFO:functions.logger:Функция __make_clicks_to_get_category запущена 2022-08-20 18:08:26.914154
+INFO:functions.logger:Функция category__xpath_of_elements запущена 2022-08-20 18:08:26.914154
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.027293
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.053702
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.076383
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.095386
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.115382
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.130383
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.150381
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.168381
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.186387
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.204385
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.222382
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.235382
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.252384
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.268382
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.287384
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.304383
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.324384
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.348383
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.371382
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.390384
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.408383
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.429383
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.449384
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.467383
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.482382
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.501382
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.518383
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.533384
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.549382
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.564477
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.587479
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.610480
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.628481
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.653478
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.673613
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.696618
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.715617
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.731617
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.746613
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.767435
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.782440
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.801434
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.819434
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.844434
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.864435
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.884435
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.900434
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.919434
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.933434
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.950435
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.968435
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 18:08:30.986436

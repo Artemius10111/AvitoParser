@@ -1,0 +1,37 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-20 17:35:59.815301
+INFO:functions.logger:Функция run запущена 2022-08-20 17:36:03.313680
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-20 17:36:03.313680
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=104.0.5112.101)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00A778B3+2193587]
+	Ordinal0 [0x00A10681+1771137]
+	Ordinal0 [0x009241A8+803240]
+	Ordinal0 [0x00917E1E+753182]
+	Ordinal0 [0x00917A0F+752143]
+	Ordinal0 [0x00916FAF+749487]
+	Ordinal0 [0x00915E94+745108]
+	Ordinal0 [0x00916498+746648]
+	Ordinal0 [0x0091F585+783749]
+	Ordinal0 [0x0092A47B+828539]
+	Ordinal0 [0x0092D750+841552]
+	Ordinal0 [0x00916766+747366]
+	Ordinal0 [0x0092A0B7+827575]
+	Ordinal0 [0x0097DE25+1170981]
+	Ordinal0 [0x0096D5C6+1103302]
+	Ordinal0 [0x009477E0+948192]
+	Ordinal0 [0x009486E6+952038]
+	GetHandleVerifier [0x00D20CB2+2738370]
+	GetHandleVerifier [0x00D121B8+2678216]
+	GetHandleVerifier [0x00B017AA+512954]
+	GetHandleVerifier [0x00B00856+509030]
+	Ordinal0 [0x00A1743B+1799227]
+	Ordinal0 [0x00A1BB68+1817448]
+	Ordinal0 [0x00A1BC55+1817685]
+	Ordinal0 [0x00A25230+1856048]
+	BaseThreadInitThunk [0x77366739+25]
+	RtlGetFullPathName_UEx [0x77A590AF+1215]
+	RtlGetFullPathName_UEx [0x77A5907D+1165]
+ 2022-08-20 17:36:05.818319

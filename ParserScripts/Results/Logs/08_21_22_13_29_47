@@ -1,0 +1,54 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-21 13:29:48.040545
+INFO:functions.logger:Функция run запущена 2022-08-21 13:29:52.430809
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-21 13:29:52.430809
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 13:29:56.590413
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:29:56.590938
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:30:00.243966
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:30:03.538214
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:30:06.684140
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:30:09.808911
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 13:30:25.843915
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:30:25.843915
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:30:29.078901
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:30:32.437514
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:30:35.636688
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:30:38.733379
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 13:31:25.678057
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:31:25.679057
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:31:28.898821
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:31:32.221631
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:31:35.418445
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:31:38.526678
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 13:31:47.249879
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:31:47.249879
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:31:50.432312
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:31:53.714168
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 13:31:56.883379
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки Message: chrome not reachable
+  (Session info: chrome=104.0.5112.101)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x011878B3+2193587]
+	Ordinal0 [0x01120681+1771137]
+	Ordinal0 [0x01034070+802928]
+	Ordinal0 [0x01029AB2+760498]
+	Ordinal0 [0x0101CEAF+708271]
+	Ordinal0 [0x01021142+725314]
+	Ordinal0 [0x010255C9+742857]
+	Ordinal0 [0x01035500+808192]
+	Ordinal0 [0x0108D2C2+1168066]
+	Ordinal0 [0x0107D5C6+1103302]
+	Ordinal0 [0x010577E0+948192]
+	Ordinal0 [0x010586E6+952038]
+	GetHandleVerifier [0x01430CB2+2738370]
+	GetHandleVerifier [0x014221B8+2678216]
+	GetHandleVerifier [0x012117AA+512954]
+	GetHandleVerifier [0x01210856+509030]
+	Ordinal0 [0x0112743B+1799227]
+	Ordinal0 [0x0112BB68+1817448]
+	Ordinal0 [0x0112BC55+1817685]
+	Ordinal0 [0x01135230+1856048]
+	BaseThreadInitThunk [0x75E66739+25]
+	RtlGetFullPathName_UEx [0x77C490AF+1215]
+	RtlGetFullPathName_UEx [0x77C4907D+1165]
+ 2022-08-21 13:32:07.909305

@@ -1,0 +1,15 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в <built-in method now of type object at 0x00007FFD41140CD0>
+INFO:functions.logger:Функция run запущена 2022-08-20 15:49:11.837244
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-20 15:49:11.837244
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-20 15:49:15.614939
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 15:49:15.614939
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 15:49:16.220943
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 15:49:17.036196
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 15:49:17.328194
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 15:49:17.641195
+INFO:functions.logger:Функция __only_name_choose запущена 2022-08-20 15:49:37.525481
+INFO:functions.logger:Функция __make_clicks_to_get_category запущена 2022-08-20 15:49:37.526480
+INFO:functions.logger:Функция category__xpath_of_elements запущена 2022-08-20 15:49:37.526480
+CRITICAL:functions.logger:Функция __make_clicks_to_category была остановлена по причине ошибки Message: Could not locate element with visible text: Аудио и видеотехника
+ 2022-08-20 15:49:37.650483
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки Avito_Posts_Parser.format_elements_name() takes 1 positional argument but 2 were given 2022-08-20 15:49:37.977479

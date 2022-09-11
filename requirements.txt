@@ -1,0 +1,17 @@
+pyqt6
+pyqt-tools
+PyQt-builder
+QtWidgets
+PySide6
+lxml
+beautifulsoup4
+fake-useragent
+aiohttp[speedups]
+selenium
+selenium-stealth
+xmltodict
+openpyxl
+pandas
+fake-useragent
+python-rucaptcha
+2captcha-python

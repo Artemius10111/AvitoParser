@@ -1,0 +1,6 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-21 12:21:08.835839
+INFO:functions.logger:Функция run запущена 2022-08-21 12:21:10.564143
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-21 12:21:10.564143
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 12:21:14.633010
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 12:21:14.634007
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки 'Search_Place_Parser' object has no attribute 'parameters' 2022-08-21 12:21:15.368010

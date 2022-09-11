@@ -1,0 +1,37 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в <built-in method now of type object at 0x00007FFD41140CD0>
+INFO:functions.logger:Функция run запущена 2022-08-20 13:00:38.020105
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-20 13:00:38.021110
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-20 13:00:41.952634
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:00:41.952634
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:00:42.524631
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 13:00:43.102724
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/div[2]/div/div[2]/div/div[6]/div/div/span/div/div[1]/div[2]/div/ul/li[1]"}
+  (Session info: chrome=104.0.5112.101)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00A778B3+2193587]
+	Ordinal0 [0x00A10681+1771137]
+	Ordinal0 [0x009241A8+803240]
+	Ordinal0 [0x009524A0+992416]
+	Ordinal0 [0x0095273B+993083]
+	Ordinal0 [0x0097F7C2+1177538]
+	Ordinal0 [0x0096D7F4+1103860]
+	Ordinal0 [0x0097DAE2+1170146]
+	Ordinal0 [0x0096D5C6+1103302]
+	Ordinal0 [0x009477E0+948192]
+	Ordinal0 [0x009486E6+952038]
+	GetHandleVerifier [0x00D20CB2+2738370]
+	GetHandleVerifier [0x00D121B8+2678216]
+	GetHandleVerifier [0x00B017AA+512954]
+	GetHandleVerifier [0x00B00856+509030]
+	Ordinal0 [0x00A1743B+1799227]
+	Ordinal0 [0x00A1BB68+1817448]
+	Ordinal0 [0x00A1BC55+1817685]
+	Ordinal0 [0x00A25230+1856048]
+	BaseThreadInitThunk [0x77366739+25]
+	RtlGetFullPathName_UEx [0x77A590AF+1215]
+	RtlGetFullPathName_UEx [0x77A5907D+1165]
+ 2022-08-20 13:00:43.281722
+INFO:functions.logger:Функция __only_name_choose запущена 2022-08-20 13:00:43.281722
+INFO:functions.logger:Функция __make_clicks_to_get_category запущена 2022-08-20 13:00:43.281722
+INFO:functions.logger:Функция category__xpath_of_elements запущена 2022-08-20 13:00:43.281722

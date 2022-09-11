@@ -1,0 +1,13 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в <built-in method now of type object at 0x00007FFD41140CD0>
+INFO:functions.logger:Функция run запущена 2022-08-20 15:39:29.644874
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-20 15:39:29.644874
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-20 15:39:33.468188
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 15:39:33.469191
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 15:39:34.146192
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 15:39:34.869249
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 15:39:35.060249
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 15:39:35.224250
+INFO:functions.logger:Функция __only_name_choose запущена 2022-08-20 15:39:56.337850
+INFO:functions.logger:Функция __make_clicks_to_get_category запущена 2022-08-20 15:39:56.338379
+INFO:functions.logger:Функция category__xpath_of_elements запущена 2022-08-20 15:39:56.338379
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки Avito_Posts_Parser.elements_title_satisfy_requirements() takes 1 positional argument but 2 were given 2022-08-20 15:40:00.211052

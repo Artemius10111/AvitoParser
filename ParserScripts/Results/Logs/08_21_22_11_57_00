@@ -1,0 +1,4 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-21 11:57:00.929565
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-21 11:57:02.297163
+INFO:functions.logger:Функция run запущена 2022-08-21 11:57:19.600636
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-21 11:57:19.600636

@@ -1,0 +1,13 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в <built-in method now of type object at 0x00007FFD1C740CD0>
+INFO:functions.logger:Функция run запущена 2022-08-20 14:55:55.236901
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-20 14:55:55.237423
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-20 14:56:23.898527
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 14:56:23.898527
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 14:56:28.063000
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 14:56:32.630370
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 14:56:36.768906
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-20 14:56:40.885762
+INFO:functions.logger:Функция __only_name_choose запущена 2022-08-20 14:57:08.003639
+INFO:functions.logger:Функция __make_clicks_to_get_category запущена 2022-08-20 14:57:12.004628
+INFO:functions.logger:Функция category__xpath_of_elements запущена 2022-08-20 14:57:12.004628
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки pprint() missing 1 required positional argument: 'object' 2022-08-20 14:57:19.117767

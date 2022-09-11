@@ -1,0 +1,34 @@
+INFO:functions.logger:Функция serialize_data_areas была запущена в 2022-08-21 12:21:44.921160
+INFO:functions.logger:Функция run запущена 2022-08-21 12:21:47.636891
+INFO:functions.logger:Функция __configure_selenium запущена 2022-08-21 12:21:47.637316
+INFO:functions.logger:Функция __make_clicks_to_get_right_city запущена 2022-08-21 12:21:51.709637
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 12:21:51.709637
+INFO:functions.logger:Функция city__xpath_of_elements запущена 2022-08-21 12:21:52.435212
+CRITICAL:functions.logger:Функция run была остановлена по причине ошибки Message: element not interactable
+  (Session info: chrome=104.0.5112.101)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x011878B3+2193587]
+	Ordinal0 [0x01120681+1771137]
+	Ordinal0 [0x01034070+802928]
+	Ordinal0 [0x0105DB83+973699]
+	Ordinal0 [0x0105D25C+971356]
+	Ordinal0 [0x0107D7AC+1103788]
+	Ordinal0 [0x01058C04+953348]
+	Ordinal0 [0x0107D9C4+1104324]
+	Ordinal0 [0x0108DAE2+1170146]
+	Ordinal0 [0x0107D5C6+1103302]
+	Ordinal0 [0x010577E0+948192]
+	Ordinal0 [0x010586E6+952038]
+	GetHandleVerifier [0x01430CB2+2738370]
+	GetHandleVerifier [0x014221B8+2678216]
+	GetHandleVerifier [0x012117AA+512954]
+	GetHandleVerifier [0x01210856+509030]
+	Ordinal0 [0x0112743B+1799227]
+	Ordinal0 [0x0112BB68+1817448]
+	Ordinal0 [0x0112BC55+1817685]
+	Ordinal0 [0x01135230+1856048]
+	BaseThreadInitThunk [0x75E66739+25]
+	RtlGetFullPathName_UEx [0x77C490AF+1215]
+	RtlGetFullPathName_UEx [0x77C4907D+1165]
+ 2022-08-21 12:21:52.714214
